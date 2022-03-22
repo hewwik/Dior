@@ -6,6 +6,8 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  cursor:url(http://i.imgur.com/n6LAgZ6.png) ,auto;
+  transition:.3s;
 }
 
 /* Main Container */
